@@ -38,7 +38,7 @@ Setting Up the Development Environment
 
 Cloning the Repository
 
-git clone https://github.com/ArchanaSRM/CAD_phase5submission.git
+git clone https://github.com/ArchanaSRM/CAD_phase1submission.git
 
 Installing Dependencies
 
